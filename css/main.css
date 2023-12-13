@@ -26,9 +26,26 @@ body{
     margin-top: 5em;
 }
 
+button {
+    background-color: black;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 1em;
+    border-radius: 2em;
+    font-size: 1em;
+    cursor: pointer;
+    border: 0.1em solid #000000;
+    margin-bottom: 5em;
+}
+button:hover {
+    background-color: #5d06b4;
+    color: #000000;
+}
+
 a {
     vertical-align: middle;
     text-decoration: none;
     color: black;
     font-size: 2em;
+    margin-top: 2em;
 }
