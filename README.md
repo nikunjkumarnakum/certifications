@@ -1,2 +1,2 @@
-# certifications
+# Certifications
 Certificates
